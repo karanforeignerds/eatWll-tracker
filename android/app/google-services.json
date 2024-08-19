@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "413620295405",
+    "project_id": "eat-well-9d791",
+    "storage_bucket": "eat-well-9d791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413620295405:android:4cd599d8e88ec0e82a9ee4",
+        "android_client_info": {
+          "package_name": "com.eatwelltracker.eatwelltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413620295405-nncknkf3or3qeq9mkhj2ji431vlfd0ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcnCOI2IhBdZpVGHdpmPy6sLCnXBiX_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413620295405-nncknkf3or3qeq9mkhj2ji431vlfd0ml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413620295405-g15i1v2i0auk57lcc95ir3vvsmen4ljh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eatwelltracker.alestrasol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

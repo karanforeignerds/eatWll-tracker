@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>413620295405-g15i1v2i0auk57lcc95ir3vvsmen4ljh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.413620295405-g15i1v2i0auk57lcc95ir3vvsmen4ljh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>413620295405-0pevldrr0qgjv44mjetoi771ucpm6di0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHheBSt5HYZkCrSdN8Wbkd6A8KX43fO8c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>413620295405</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eatwelltracker.alestrasol</string>
+	<key>PROJECT_ID</key>
+	<string>eat-well-9d791</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eat-well-9d791.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:413620295405:ios:826a6c4100782c842a9ee4</string>
+</dict>
+</plist>
